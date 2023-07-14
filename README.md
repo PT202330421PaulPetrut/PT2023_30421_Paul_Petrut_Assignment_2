@@ -2,8 +2,11 @@
 
 This is a univeristy project I was working on for a bit.
 In this project i learned how to use in Java :
+
                           - Processes
+                          
                           - Threads
+                          
                           - synchronization mechanisms like: ArrayBlockingQueues and other thread safe structures, atomic operations, volative variables etc. 
                           
 Here is a short description:
